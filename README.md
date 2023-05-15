@@ -1,9 +1,7 @@
 # Smart_car_parking-Project
 
 ## Description :
-Smart car parking is a project where real-time information regarding parking space is updated immediately on entrance of parking lot. LCD display before car enters to 
-parking space. The available or unavailable parking spaces are displayed simply using LCD display and LED's.These processes together with sensor and update the status 
-on each parking slot, its data is managed on the cloud.
+Our project focuses on a smart car parking system that utilizes ultrasonic sensors to detect vehicles. When a car is detected, the sensor sends this data using Zigbee protocol to a coordinator, which displays the information on an LCD display. Additionally, the system uses smart LED indicators that glow red when a parking space is occupied and green when it is free. This innovative solution aims to streamline parking management, improve user experience, and optimize urban parking efficiency.
 
 ## Hardware :
 1. Sensors              : Ultrasonic sensors
